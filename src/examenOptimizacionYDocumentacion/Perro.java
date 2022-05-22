@@ -1,4 +1,4 @@
-package examenOptimizacionYDocumentacion;
+package src.examenOptimizacionYDocumentacion;
 
 public class Perro {
 	private int age;
@@ -11,7 +11,7 @@ public class Perro {
 
 	public void setAge(int age) throws EdadErroneaException {
 		if (age < 0)
-			throw new EdadErroneaException("La edad no puede ser negativa");
+			throw new EdadErroneaException("La edad no puede ser negativa, o valor nulo.");
 		this.age = age;
 	}
 
