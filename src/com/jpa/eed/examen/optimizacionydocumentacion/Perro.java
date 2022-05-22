@@ -1,12 +1,11 @@
 package com.jpa.eed.examen.optimizacionydocumentacion;
 
-public class Perro {
+public class Perro extends Mascota {
 	private static final String GUAUUUUUUUUUU = "GUAUUUUUUUUUU";
   private int age;
-	private String name;
-
 	public Perro(String name, int age) throws EdadErroneaException {
-		setAge(age);
+		super();
+    setAge(age);
 		this.name = name;
 	}
 
@@ -22,10 +21,6 @@ public class Perro {
 
 	public String ladrar() {
 		return GUAUUUUUUUUUU;
-	}
-
-	public String getName() {
-		return name;
 	}
 
 }
