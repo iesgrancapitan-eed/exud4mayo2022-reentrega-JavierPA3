@@ -57,7 +57,7 @@
 
 23. Sube el repositorio a GitHub (Añade aquí la url) y activa el hosting (GitHub Pages)(Añade aquí la url). Selecciona la carpeta docs como inicio
     
-[img](https://iesgrancapitan-eed.github.io/exud4mayo2022-reentrega-JavierPA3/)
+[https://iesgrancapitan-eed.github.io/exud4mayo2022-reentrega-JavierPA3/](https://iesgrancapitan-eed.github.io/exud4mayo2022-reentrega-JavierPA3/)
 
 ## BitBucket
 
