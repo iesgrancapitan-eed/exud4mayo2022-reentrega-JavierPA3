@@ -25,6 +25,7 @@
 11. Realiza un commit con el mensaje "refactor: GUAUUUUUUUUUU " 
 
 12. Extrae una superclase "Mascota" a partir de la clase "Perro". Incluye todo lo relacionado con el nombre de la mascota.
+    ![img](img/1.JPG)
 13. Añade el diálogo de la refactorización con todo debidamente marcado
 
 
@@ -55,7 +56,8 @@
 ## GitHub Pages
 
 23. Sube el repositorio a GitHub (Añade aquí la url) y activa el hosting (GitHub Pages)(Añade aquí la url). Selecciona la carpeta docs como inicio
-
+    
+    https://github.com/iesgrancapitan-eed/exud4mayo2022-reentrega-JavierPA3
 ## BitBucket
 
 24. Crea en tu servidor Bitbucket una copia del repositorio actual. Añade aquí la url para que al menos yo pueda verla (mlmagarin@iesgrancapitan.org). El mismo repositorio ha de estar en ambos servidores 
