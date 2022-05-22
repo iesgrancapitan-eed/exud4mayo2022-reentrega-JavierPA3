@@ -1,7 +1,8 @@
 package com.jpa.eed.examen.optimizacionydocumentacion;
 
 public class Perro {
-	private int age;
+	private static final String GUAUUUUUUUUUU = "GUAUUUUUUUUUU";
+  private int age;
 	private String name;
 
 	public Perro(String name, int age) throws EdadErroneaException {
@@ -20,7 +21,7 @@ public class Perro {
 	}
 
 	public String ladrar() {
-		return "GUAUUUUUUUUUU";
+		return GUAUUUUUUUUUU;
 	}
 
 	public String getName() {
